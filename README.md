@@ -28,7 +28,7 @@
 
 ### Публикации и статьи: 
 
-- RUSSIAN JOURNAL OF MONEY & FINANCE: Forecasting Russian Macroeconomic Indicators Based on Information from News and Search Queries (2020): [english version of the paper](https://rjmf.econs.online/en/2020/4/forecasting-macroeconomic-indicators-news-and-search-queries/), [russian version of the paper](https://rjmf.econs.online/2020/4/forecasting-macroeconomic-indicators-news-and-search-queries/), [repository with code] (https://github.com/FUlyankin/uncertainty_index)
+- RUSSIAN JOURNAL OF MONEY & FINANCE: Forecasting Russian Macroeconomic Indicators Based on Information from News and Search Queries (2020): [english version of the paper](https://rjmf.econs.online/en/2020/4/forecasting-macroeconomic-indicators-news-and-search-queries/), [russian version of the paper](https://rjmf.econs.online/2020/4/forecasting-macroeconomic-indicators-news-and-search-queries/), [repository with code](https://github.com/FUlyankin/uncertainty_index)
 
 
 ### Контакты: 
