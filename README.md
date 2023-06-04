@@ -38,4 +38,4 @@
 - Instagram: @ppilif 
 
 
-Весь контент, созданный для этого курса распространяются на правах лицензии [MIT License](https://github.com/hse-econ-data-science/dap_2020_fall/blob/master/LICENSE) либо на правах лицензии [WTFPL](http://www.wtfpl.net/) на ваш выбор. Материалы публикуются как общественное достояние.
+Весь контент, созданный мной распространяются на правах лицензии [MIT License](https://github.com/hse-econ-data-science/dap_2020_fall/blob/master/LICENSE) либо на правах лицензии [WTFPL](http://www.wtfpl.net/) на ваш выбор. Материалы публикуются как общественное достояние.
