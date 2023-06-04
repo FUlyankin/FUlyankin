@@ -1,16 +1,18 @@
-### Hi there 👋
+### Привет, Олимпийский! 👋
 
-<!--
-**FUlyankin/FUlyankin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Моё резюме en](https://github.com/FUlyankin/FUlyankin/raw/main/cv_uliankin_filipp.pdf)
+- [Мой лайфстайл-канал в tg](https://t.me/ppilif_chanel)
 
-Here are some ideas to get you started:
+### Мои курсы: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Прикладная статистика (2021): [видео](https://www.youtube.com/@user-bg8cd4fn7d/playlists), [материалы](https://github.com/FUlyankin/matstat-AB)
+
+
+
+### Контакты: 
+
+- Telegram: @ppilif
+- email: filfonul@gmail.com
+- Instagram: @ppilif 
+
+
