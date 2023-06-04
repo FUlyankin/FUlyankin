@@ -1,6 +1,6 @@
 ### Привет, Олимпийский! 👋
 
-- [Моё резюме en](https://github.com/FUlyankin/FUlyankin/raw/main/cv_uliankin_filipp.pdf)
+- [Моё резюме](https://github.com/FUlyankin/FUlyankin/raw/main/cv_uliankin_filipp.pdf)
 - [Мой лайфстайл-канал в tg](https://t.me/ppilif_chanel)
 - [Канал с моими лекциями на youtube](https://www.youtube.com/@ppilif_lectures/playlists) 
 
