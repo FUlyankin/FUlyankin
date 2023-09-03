@@ -25,6 +25,7 @@
 ### Мои проекты: 
 
 - [Книга с простыми задачками по DL](https://fulyankin.github.io/deep_learning_masha_book/intro.html)
+- Мои карты разных городов: [Стамбул](https://www.google.com/maps/d/u/0/edit?mid=18FaOZ8XhD-Bb7zJVKBgNozM-YSNw44g&ll=40.96086850969995%2C29.031512850000006&z=11) [Тбилиси](https://www.google.com/maps/d/u/0/edit?mid=1NemWA88tLqxTRLP2kO24SbnrAOdae-g&ll=41.71039109163817%2C44.77281065000003&z=13) [Белград](https://www.google.com/maps/d/u/0/edit?mid=1cDYMCjCwfEh4WEC4TljzHaRMIB_Sl7w&ll=44.82391010730461%2C20.434405899999984&z=13)
 
 ### Публикации и лонгриды: 
 
